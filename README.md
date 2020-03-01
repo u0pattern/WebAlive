@@ -1,5 +1,5 @@
 # WebAlive
-A tool that checks whether HTTP and HTTPS are working or not.<br><br>
+A tool that checks whether HTTP/S are working or not.<br><br>
 **NOTE: ONLY WORKS WITH PYTHON 3**
 
 ----------------
